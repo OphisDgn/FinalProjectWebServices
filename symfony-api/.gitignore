@@ -7,6 +7,8 @@
 /public/bundles/
 /var/
 /vendor/
+./docker-compose.overriden.yml
+./docker-compose.yml
 ###< symfony/framework-bundle ###
 
 ###> lexik/jwt-authentication-bundle ###
